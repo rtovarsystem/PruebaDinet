@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\prueba_DINET\\DinetApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|d:\\prueba_dinet\\dinetapi\\dinetapi\\dapperbd\\dapperbdconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|solutionrelative:dinetapi\\dapperbd\\dapperbdconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|d:\\prueba_dinet\\dinetapi\\dinetapi\\interfaces\\idapperdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|solutionrelative:dinetapi\\interfaces\\idapperdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|d:\\prueba_dinet\\dinetapi\\dinetapi\\interfaces\\iproductosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|solutionrelative:dinetapi\\interfaces\\iproductosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|d:\\prueba_dinet\\dinetapi\\dinetapi\\repositories\\productosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|solutionrelative:dinetapi\\repositories\\productosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|d:\\prueba_dinet\\dinetapi\\dinetapi\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|solutionrelative:dinetapi\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|d:\\prueba_dinet\\dinetapi\\dinetapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|solutionrelative:dinetapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|d:\\prueba_dinet\\dinetapi\\dinetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|solutionrelative:dinetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|d:\\prueba_dinet\\dinetapi\\dinetapi\\appbdcontext\\applicationbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|solutionrelative:dinetapi\\appbdcontext\\applicationbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|d:\\prueba_dinet\\dinetapi\\dinetapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|solutionrelative:dinetapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|d:\\prueba_dinet\\dinetapi\\dinetapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|solutionrelative:dinetapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|d:\\prueba_dinet\\dinetapi\\dinetapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|solutionrelative:dinetapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|d:\\prueba_dinet\\dinetapi\\dinetapi\\dinetapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|solutionrelative:dinetapi\\dinetapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|d:\\prueba_dinet\\dinetapi\\dinetapi\\dinetapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|solutionrelative:dinetapi\\dinetapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|d:\\prueba_dinet\\dinetapi\\dinetapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3660F979-1394-42D7-9F02-18CFDE287632}|DinetApi\\DinetApi.csproj|solutionrelative:dinetapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductosRepository.cs",
+              "DocumentMoniker": "D:\\prueba_DINET\\DinetApi\\DinetApi\\Repositories\\ProductosRepository.cs",
+              "RelativeDocumentMoniker": "DinetApi\\Repositories\\ProductosRepository.cs",
+              "ToolTip": "D:\\prueba_DINET\\DinetApi\\DinetApi\\Repositories\\ProductosRepository.cs",
+              "RelativeToolTip": "DinetApi\\Repositories\\ProductosRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:49:19.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "D:\\prueba_DINET\\DinetApi\\DinetApi\\Models\\Productos.cs",
+              "RelativeDocumentMoniker": "DinetApi\\Models\\Productos.cs",
+              "ToolTip": "D:\\prueba_DINET\\DinetApi\\DinetApi\\Models\\Productos.cs",
+              "RelativeToolTip": "DinetApi\\Models\\Productos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:48:06.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductosRepository.cs",
+              "DocumentMoniker": "D:\\prueba_DINET\\DinetApi\\DinetApi\\Interfaces\\IProductosRepository.cs",
+              "RelativeDocumentMoniker": "DinetApi\\Interfaces\\IProductosRepository.cs",
+              "ToolTip": "D:\\prueba_DINET\\DinetApi\\DinetApi\\Interfaces\\IProductosRepository.cs",
+              "RelativeToolTip": "DinetApi\\Interfaces\\IProductosRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:52:11.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDapperDbConnection.cs",
+              "DocumentMoniker": "D:\\prueba_DINET\\DinetApi\\DinetApi\\Interfaces\\IDapperDbConnection.cs",
+              "RelativeDocumentMoniker": "DinetApi\\Interfaces\\IDapperDbConnection.cs",
+              "ToolTip": "D:\\prueba_DINET\\DinetApi\\DinetApi\\Interfaces\\IDapperDbConnection.cs",
+              "RelativeToolTip": "DinetApi\\Interfaces\\IDapperDbConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:43:28.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DapperBDConnection.cs",
+              "DocumentMoniker": "D:\\prueba_DINET\\DinetApi\\DinetApi\\DapperBD\\DapperBDConnection.cs",
+              "RelativeDocumentMoniker": "DinetApi\\DapperBD\\DapperBDConnection.cs",
+              "ToolTip": "D:\\prueba_DINET\\DinetApi\\DinetApi\\DapperBD\\DapperBDConnection.cs",
+              "RelativeToolTip": "DinetApi\\DapperBD\\DapperBDConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:14:19.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\prueba_DINET\\DinetApi\\DinetApi\\appsettings.json",
+              "RelativeDocumentMoniker": "DinetApi\\appsettings.json",
+              "ToolTip": "D:\\prueba_DINET\\DinetApi\\DinetApi\\appsettings.json",
+              "RelativeToolTip": "DinetApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T14:51:11.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\prueba_DINET\\DinetApi\\DinetApi\\Program.cs",
+              "RelativeDocumentMoniker": "DinetApi\\Program.cs",
+              "ToolTip": "D:\\prueba_DINET\\DinetApi\\DinetApi\\Program.cs",
+              "RelativeToolTip": "DinetApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:44:49.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationBDContext.cs",
+              "DocumentMoniker": "D:\\prueba_DINET\\DinetApi\\DinetApi\\AppBDContext\\ApplicationBDContext.cs",
+              "RelativeDocumentMoniker": "DinetApi\\AppBDContext\\ApplicationBDContext.cs",
+              "ToolTip": "D:\\prueba_DINET\\DinetApi\\DinetApi\\AppBDContext\\ApplicationBDContext.cs",
+              "RelativeToolTip": "DinetApi\\AppBDContext\\ApplicationBDContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:19:31.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\prueba_DINET\\DinetApi\\DinetApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DinetApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\prueba_DINET\\DinetApi\\DinetApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DinetApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:44:39.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "D:\\prueba_DINET\\DinetApi\\DinetApi\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "DinetApi\\Controllers\\ProductosController.cs",
+              "ToolTip": "D:\\prueba_DINET\\DinetApi\\DinetApi\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "DinetApi\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAewCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:45:55.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\prueba_DINET\\DinetApi\\DinetApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DinetApi\\appsettings.Development.json",
+              "ToolTip": "D:\\prueba_DINET\\DinetApi\\DinetApi\\appsettings.Development.json",
+              "RelativeToolTip": "DinetApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T14:51:07.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DinetApi",
+              "DocumentMoniker": "D:\\prueba_DINET\\DinetApi\\DinetApi\\DinetApi.csproj",
+              "RelativeDocumentMoniker": "DinetApi\\DinetApi.csproj",
+              "ToolTip": "D:\\prueba_DINET\\DinetApi\\DinetApi\\DinetApi.csproj",
+              "RelativeToolTip": "DinetApi\\DinetApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T13:17:33.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DinetApi",
+              "DocumentMoniker": "D:\\prueba_DINET\\DinetApi\\DinetApi\\DinetApi.csproj",
+              "RelativeDocumentMoniker": "DinetApi\\DinetApi.csproj",
+              "ToolTip": "D:\\prueba_DINET\\DinetApi\\DinetApi\\DinetApi.csproj",
+              "RelativeToolTip": "DinetApi\\DinetApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T15:28:30.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\prueba_DINET\\DinetApi\\DinetApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DinetApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\prueba_DINET\\DinetApi\\DinetApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DinetApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T15:17:03.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
